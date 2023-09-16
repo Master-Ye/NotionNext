@@ -142,7 +142,6 @@ const WebMentionBlock = ({ frontMatter }) => {
 
   return (
     <div className='webmention-block'>
-    
       <div className='webmention-block-intro'>
         You can{' '}
         <a
