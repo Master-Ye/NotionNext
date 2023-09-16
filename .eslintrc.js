@@ -26,10 +26,6 @@ module.exports = {
     }
   },
   rules: {
-    'react/no-unknown-property': 'off', // <style jsx>
-    'react/prop-types': 'off',
-    'space-before-function-paren': 0,
-    'react-hooks/rules-of-hooks': 'error',
     "react/no-unescaped-entities": "off",
     "@next/next/no-page-custom-font": "off"
   },
